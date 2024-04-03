@@ -1,0 +1,15 @@
+// provides a degree of granular control with mongoose when init and connecting to MongoDB
+module.exports = {
+  bufferCommands: false,
+  bufferTimeoutMS: 500,
+  excludeIndexes: false,
+  id: true,
+  _id: true,
+  minimize: true,
+  heartbeatFrequencyMS: 1000,
+  validateBeforeSave: true,
+  timestamp: {
+    createdAt: 'created_at',
+    updatedAt: 'updated_at',
+  }
+};

@@ -1,0 +1,14 @@
+Video providing some insite into server-side rendering 
+https://www.youtube.com/watch?v=VYjGahHuC7g
+
+Library for server-side rendering with React Native 
+-- library has zero contributors, no activity since Jul 2018, and one version
+-- their approach could be useful and their code
+https://github.com/i6mi6/react-native-sdr
+
+
+Considering SSR (Server-Sider Rendering) and SDR (Server Driven Rendering) 
+    if so, how much or what to render on server: layout, components, styling, etc.
+Considering off-loading some of the logic that would be native to client-side and/or behaivor to server 
+    if so, how much or what to process on server: ???
+Considering user jade engine to creat basic HTML interface or any other purposes.

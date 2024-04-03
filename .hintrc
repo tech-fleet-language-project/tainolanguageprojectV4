@@ -1,0 +1,15 @@
+{
+ 
+  "connector": {},
+  "formatters": [],
+  "hints": {
+      "typescript-config/is-valid": "error",
+      "typescript-config/no-comment": "error",
+      "typescript-config/target": "error",
+      
+  },
+  "parsers": [],
+  "extends": [
+    "development"
+  ],
+}
